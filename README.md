@@ -59,9 +59,10 @@
   <img src="https://streak-stats.demolab.com?user=Hwi0228&theme=transparent&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
----
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 <p align="center">
   <i>Build · Experiment · Learn · Repeat</i>
